@@ -1,13 +1,18 @@
-# Hola, mi nommbre es Juan Fernández Herreros 🙌​
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">JuanFher</a> 👋</h1>
+</div>
+
 Actualmente estoy estudiando un ciclo superior de desarrollo de aplicaciones web en el instituto IES Abdera.
+
+
+Tecnologías:
 -
-#Tecnologías:
 - Python
 - HTML
 - CSS
 - JavaScript
 - Mariadb
-- 
+  
 
 <!--
 **juanfher4/juanfher4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
