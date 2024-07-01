@@ -6,7 +6,7 @@ Actualmente estoy estudiando un ciclo superior de desarrollo de aplicaciones web
 
 
 ## Tecnologías:
--
+
 - Python
 - HTML
 - CSS
