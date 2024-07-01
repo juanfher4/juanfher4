@@ -5,14 +5,18 @@
 Actualmente estoy estudiando un ciclo superior de desarrollo de aplicaciones web en el instituto IES Abdera.
 
 
-Tecnologías:
+## Tecnologías:
 -
 - Python
 - HTML
 - CSS
 - JavaScript
-- Mariadb
-  
+- Git
+- GitHub
+
+## Contacto:
+
+[![Email](https://img.shields.io/badge/juanfpcr6@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juanfpcr6@gmail.com)
 
 <!--
 **juanfher4/juanfher4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
