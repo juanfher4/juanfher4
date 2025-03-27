@@ -13,6 +13,8 @@ Actualmente estoy estudiando un ciclo superior de desarrollo de aplicaciones web
 - JavaScript
 - Git
 - GitHub
+- Django
+- Php
 
 ## Contacto:
 
